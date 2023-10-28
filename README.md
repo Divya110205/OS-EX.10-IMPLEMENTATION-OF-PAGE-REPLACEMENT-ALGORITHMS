@@ -223,6 +223,3 @@ return 0;
 
 ## RESULT:
 Thus the implementation of Optimal Replacement page replacement is successfully executed.
-RESULT:
-
-
